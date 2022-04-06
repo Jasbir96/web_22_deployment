@@ -6,4 +6,5 @@
 
 ## rest of the users
 *  git init
+*  git add .
 *  
